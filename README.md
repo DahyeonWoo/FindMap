@@ -7,7 +7,6 @@
 <h4 align="center">AI기반 검색, 검색결과, 게시글 추천 SNS 서비스</h4>
 <p align="center">
     <a href="https://lab.hanium.or.kr/21_HF144/21_hf144/commits/main">
-        <img alt="pipeline status" src="https://lab.hanium.or.kr/21_HF144/21_hf144/badges/main/pipeline.svg" /></a>
     <a href="https://lab.hanium.or.kr/21_HF144/21_hf144/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/license-Apache--2.0-blue"></a>
     <a href="https://findmap.atlassian.net/">
@@ -85,8 +84,15 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 |                    Leader, Node Server                    |                        ML, Flutter                        |                     ML, Flask Server                      |                        PM, Flutter                        |
 
 ## Architecture
+#### System Architecture
+<p align="center">
+    <img src="assets/system_architecture.png" alt="logo" width="600"/>
+</p>
 
-업로드 예정
+#### Service Senario
+<p align="center">
+    <img src="assets/service_senario.png" alt="logo" width="600"/>
+</p>
 
 [API docs](https://lab.hanium.or.kr/21_HF144/21_hf144/wikis/home)
 
