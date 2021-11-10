@@ -31,6 +31,7 @@
   <a href="#features">Features</a></a> * 
   <a href="#contributors">Contributors</a> * 
   <a href="#architecture">Architecture</a> * 
+  <a href="#api-docs">API docs</a> *
   <a href="#license">License</a> * 
   <a href="#reference">Reference</a>
 </p>
@@ -94,7 +95,11 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
     <img src="assets/service_senario.png" alt="logo" width="600"/>
 </p>
 
-[API docs](https://lab.hanium.or.kr/21_HF144/21_hf144/wikis/home)
+## API docs
+
+[Github Wiki](https://github.com/defwdahyun0/FindMap/wiki)
+
+[Postman](https://documenter.getpostman.com/view/15257087/UVJfkbFC)
 
 ## License
 
