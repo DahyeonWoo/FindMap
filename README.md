@@ -81,7 +81,7 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 |                       **🐈 우다현**                        |                       **🐕 박지윤**                        |                       **🦅 승현수**                        |                       **🐣 오승민**                        |
 | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | ![](https://avatars.githubusercontent.com/u/60066586?v=4) | ![](https://avatars.githubusercontent.com/u/51026374?v=4) | ![](https://avatars.githubusercontent.com/u/72781752?v=4) | ![](https://avatars.githubusercontent.com/u/53206234?v=4) |
-|      [@DahyeonWoo](https://github.com/DahyeonWoo)       |         [@PrimWILL](https://github.com/PrimWILL)          |     [@SeungHyeon12](https://github.com/SeungHyeon12)      |           [@Rhcsky](https://github.com/rhcsky)            |
+|      [@DahyeonWoo](https://github.com/DahyeonWoo)       |         [@PrimWILL](https://github.com/PrimWILL)          |     [@SeungHyeon12](https://github.com/SeungHyeon12)      |           [@SoongE](https://github.com/SoongE)            |
 |                    Leader, Node Server                    |                        ML, Flutter                        |                     ML, Flask Server                      |                        PM, Flutter                        |
 
 ## Architecture
