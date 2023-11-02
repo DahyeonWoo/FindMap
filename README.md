@@ -1,4 +1,4 @@
-# Findmap: 웹서핑의 지도
+# FindMap: 웹서핑의 지도
 
 <div align="center">
 <p align="center">
